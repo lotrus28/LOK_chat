@@ -1,11 +1,11 @@
 # LOK_chat
 An attempt at improving chatbots
 
--frequency_analysis.py
+- frequency_analysis.py
 This part of code used to analyse frequency of words in given phrases, but we switched it off.
 Now it just cleans up the phrases.
 
--morpheme_classifier.py
+- morpheme_classifier.py
 Using EM approach to discern between different intents of a client based on message morpheme content.
 Needs tweaking
 
